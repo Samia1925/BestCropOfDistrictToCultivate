@@ -32,5 +32,5 @@ The dataset contains agricultural data such as:
 - Crop Year, Area, Production, Yield
 - Annual Rainfall, Fertilizer Use, Pesticide Use
 
-The dataset is from Mendeley Dataset website >> [Link](https://data.mendeley.com/datasets/ncw2vbcgnk/2) 
+The dataset is from Mendeley Dataset website publicly available >> [Link](https://data.mendeley.com/datasets/ncw2vbcgnk/2) 
 
